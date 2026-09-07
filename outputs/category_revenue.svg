@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="355">
+<style>text{font-family:Arial;fill:#192A3A}.title{font-size:20px;font-weight:bold}.label{font-size:14px}.value{font-size:13px}</style>
+<text x="30" y="35" class="title">Revenue by category</text>
+<text x="175" y="80" text-anchor="end" class="label">Electronics</text>
+<rect x="185" y="60" width="600" height="30" fill="#4C78A8" rx="3"/>
+<text x="793" y="80" class="value">$607,164</text>
+<text x="175" y="135" text-anchor="end" class="label">Home Office</text>
+<rect x="185" y="115" width="457" height="30" fill="#4C78A8" rx="3"/>
+<text x="650" y="135" class="value">$462,876</text>
+<text x="175" y="190" text-anchor="end" class="label">Kitchen</text>
+<rect x="185" y="170" width="388" height="30" fill="#4C78A8" rx="3"/>
+<text x="581" y="190" class="value">$392,850</text>
+<text x="175" y="245" text-anchor="end" class="label">Sports</text>
+<rect x="185" y="225" width="361" height="30" fill="#4C78A8" rx="3"/>
+<text x="554" y="245" class="value">$365,699</text>
+<text x="175" y="300" text-anchor="end" class="label">Lifestyle</text>
+<rect x="185" y="280" width="268" height="30" fill="#4C78A8" rx="3"/>
+<text x="461" y="300" class="value">$271,006</text>
+</svg>

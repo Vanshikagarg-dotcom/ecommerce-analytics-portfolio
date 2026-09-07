@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300">
+<style>text{font-family:Arial;fill:#192A3A}.title{font-size:20px;font-weight:bold}.label{font-size:14px}.value{font-size:13px}</style>
+<text x="30" y="35" class="title">Revenue by region</text>
+<text x="175" y="80" text-anchor="end" class="label">North</text>
+<rect x="185" y="60" width="600" height="30" fill="#4C78A8" rx="3"/>
+<text x="793" y="80" class="value">$597,550</text>
+<text x="175" y="135" text-anchor="end" class="label">East</text>
+<rect x="185" y="115" width="545" height="30" fill="#4C78A8" rx="3"/>
+<text x="738" y="135" class="value">$543,126</text>
+<text x="175" y="190" text-anchor="end" class="label">West</text>
+<rect x="185" y="170" width="513" height="30" fill="#4C78A8" rx="3"/>
+<text x="706" y="190" class="value">$510,918</text>
+<text x="175" y="245" text-anchor="end" class="label">South</text>
+<rect x="185" y="225" width="450" height="30" fill="#4C78A8" rx="3"/>
+<text x="643" y="245" class="value">$448,003</text>
+</svg>
